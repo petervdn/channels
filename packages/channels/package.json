@@ -31,7 +31,7 @@
     "jest": "^28.1.3",
     "jest-environment-jsdom": "^29.0.0",
     "mock-xmlhttprequest": "^8.0.0",
-    "ts-jest": "^28.0.8",
+    "ts-jest": "^29.1.1",
     "web-audio-test-api": "^0.5.2"
   }
 }
